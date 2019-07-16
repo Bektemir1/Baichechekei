@@ -2146,6 +2146,7 @@ h5.w3l-subtitle {
 .team-row {
     width: 75%;
     margin: 0 auto;
+    
 }
 .view-caption {
     height: 46%;
@@ -2915,3 +2916,18 @@ h5.w3l-subtitle {
 }
 }
 /*-- //responsive-design --*/
+
+.list-workers th, .list-workers td{
+    text-align: center;
+}
+.list-workers th{
+    padding:20px 0;
+    background: #02e2ff;
+}
+.list-workers td{
+    padding:10px 0;
+    background: #e7e7e7;
+}
+.list-workers{
+    margin: 50px 0;
+}
