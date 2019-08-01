@@ -256,7 +256,6 @@ ul.nav.navbar {
 } 
 h3.w3ls-title {
     font-size: 4em;
-    margin-bottom: .8em;
     text-align: center;
     color: #333;
 } 
@@ -2916,20 +2915,26 @@ h5.w3l-subtitle {
 }
 }
 /*-- //responsive-design --*/
-
+.table-responsive{
+    overflow-x: auto;
+}
 .list-workers th, .list-workers td{
     text-align: center;
+    padding:15px 10px;
 }
 .list-workers th{
+    background: rgba(2, 226, 255, 0.75);
     padding:20px 0;
-    background: #02e2ff;
+
 }
-.list-workers td{
-    padding:10px 0;
-    background: #e7e7e7;
+.w3ls-title{
+    margin-top: 50px ;
 }
-.list-workers{
+table{
+    width: 100%;
+    border-spacing: 0;
     margin: 50px 0;
+    border-collapse:collapse;
 }
 .onas td{
     padding:5px 0;
