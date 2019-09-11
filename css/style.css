@@ -44,7 +44,9 @@ body a:hover,body a:focus {
 /*-- header-w3layoutstop--*/
 .header-w3layoutstop {
     padding: 1em 0;
-    background: #02e2ff;
+    background: red;
+    /*
+    background: #02e2ff;*/
 }
 .header-w3layoutstop p {
     color: #272621;
@@ -239,6 +241,9 @@ ul.nav.navbar {
 }
 .w3-agilebtn:hover {
 	color: #fff;
+}
+.title-list{
+    margin:50px 0;
 }
 .w3-agilebtn:hover:before, .w3-agilebtn:hover:after,
 .w3-agilebtn:hover span:before,
@@ -2922,6 +2927,7 @@ h5.w3l-subtitle {
 .list-workers th, .list-workers td{
     text-align: center;
     padding:15px 10px;
+    background: #e7e7e7;
 }
 .list-workers th{
     background: rgba(2, 226, 255, 0.75);
