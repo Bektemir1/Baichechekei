@@ -1,9 +1,4 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 body{
 	margin:0;
 	font-family: 'Open Sans', sans-serif;
@@ -20,7 +15,7 @@ body a{
 }
 h1,h2,h3,h4,h5,h6{
 	margin:0;
-	font-family: 'Limelight', cursive; 
+    font-family: 'Roboto', sans-serif;
 }
 p{
 	margin:0;
@@ -44,9 +39,8 @@ body a:hover,body a:focus {
 /*-- header-w3layoutstop--*/
 .header-w3layoutstop {
     padding: 1em 0;
-    background: red;
-    /*
-    background: #02e2ff;*/
+
+    background: #02e2ff;
 }
 .header-w3layoutstop p {
     color: #272621;
@@ -369,13 +363,13 @@ h5.w3l-subtitle {
 	-ms-transform: scale(1.5);
     transform: scale(1.5);
 } 
-.services-w3text:hover {
+/*.services-w3text:hover {
 	-webkit-transform: rotatey(-35deg);
 	-moz-transform: rotatey(-35deg);
 	-o-transform: rotatey(-35deg);
 	-ms-transform: rotatey(-35deg);
     transform: rotatey(-35deg);
-}
+}*/
 /*-- //services --*/  
 /*-- news --*/ 
 .news {
@@ -2950,7 +2944,11 @@ table{
 }
 .onas th{
     padding: 15px 0;
+    background: #e7e7e7;
 }
 .strong{
     font-weight: 600;
+}
+.white-bg{
+    background: #fff;
 }
