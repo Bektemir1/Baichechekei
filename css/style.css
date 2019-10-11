@@ -2921,8 +2921,10 @@ h5.w3l-subtitle {
 .list-workers th, .list-workers td{
     text-align: center;
     padding:15px 10px;
-    background: #e7e7e7;
+    background: #fafafa;
+    border-bottom: 1px solid #e7e7e7;
 }
+
 .list-workers th{
     background: rgba(2, 226, 255, 0.75);
     padding:20px 0;
