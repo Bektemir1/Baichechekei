@@ -257,7 +257,7 @@ h3.w3ls-title {
     font-size: 4em;
     text-align: center;
     color: #333;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 } 
 p {
     font-size: 1em;
@@ -2953,4 +2953,9 @@ table{
 }
 .white-bg{
     background: #fff;
+}
+.workers-info{
+    margin-bottom: 30px;
+    color:#717f86;
+
 }
