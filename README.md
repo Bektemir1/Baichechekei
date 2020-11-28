@@ -1,3 +1,3 @@
 # Baichechekei
 
- [call in whatsapp](https://wa.me/996778457834/?text=Hello%20i%20am%20Bektemir.%20Can%20you%20write%20me%20on%20Monday)
+ [call in whatsapp](https://wa.me/996778457834/?text=%D0%A1%D0%B0%D0%BB%D0%B0%D0%BC%20%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20%D0%BA%D1%8B%D0%BB%D1%81%D0%B0%D0%BC%20%D0%B1%D0%BE%D0%BB%D0%BE%D0%B1%D1%83)
